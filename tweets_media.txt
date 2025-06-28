@@ -1,16 +1,16 @@
-text: test 안녕하세요 (isi text kamu)
-Link Movie: 🔗 https://google.com
+text: test 안녕하세요 (EXOTICANTSTORE)
+Link Movie: 🔗 https://cutt.ly/exoticstore
 
 
 media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
 url: (boleh di kosongin)
-hashtags: #film #movie #lk21 #film21
+hashtags: #semut #exoticantstore #antstore #semutberualitas
 ---
-text: test 안녕하세요 (isi text kamu)
-Link Movie: 🔗 https://google.com
+text: test 안녕하세요 (BELI SEMUT BERKUALITAS TINGGI DI EXOTICANTSTORE>COM)
+Link Movie: 🔗 https://cutt.ly/UrWdQZUr
 
 
 media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
 url: (boleh di kosongin)
-hashtags: #film #movie #lk21 #film21
+hashtags: #semut #exoticantstore #antstore #semutberualitas
 ---
