@@ -1,13 +1,13 @@
 text: test 안녕하세요 (EXOTICANTSTORE)
-Link Movie: 🔗 https://cutt.ly/exoticstore
+Link Store: 🔗 https://cutt.ly/exoticstore
 
 
 media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
 url: (boleh di kosongin)
 hashtags: #semut #exoticantstore #antstore #semutberualitas
 ---
-text: test 안녕하세요 (BELI SEMUT BERKUALITAS TINGGI DI EXOTICANTSTORE>COM)
-Link Movie: 🔗 https://cutt.ly/UrWdQZUr
+text: test 안녕하세요 (BELI SEMUT BERKUALITAS TINGGI DI EXOTICANTSTORE.COM)
+Link Store: 🔗 https://cutt.ly/exoticstore
 
 
 media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
